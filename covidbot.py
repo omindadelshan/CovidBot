@@ -1,7 +1,7 @@
 import os
 import telebot
 
-bot = ("Api Her")
+bot = ("1843767480:AAG6y4JwKS5ndgpsCWmsM1JeLBcKmCyXyQc")
 
 @bot.massage_handler(commands=["start"])
 def send_welcome(massage):
